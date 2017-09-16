@@ -28,7 +28,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body prefix="dc: http://purl.org/dc/terms/ schema: http://schema.org/">
 	<div class="container">
 		<div class="masterhead">
 			<nav>
@@ -47,19 +47,19 @@
 					</li>
 				</ul>
 			</nav>
-			
+
 		</div>
-		<div class="jumbotron">
+		<div resource="#me" typeof="foaf:Person schema:Person" class="jumbotron">
 			<img class="img-circle" src="img/DSC09559.JPG" alt="Portrait" width="140" height="140">
-			<h2>Alex Gabriel</h2>
-			<h2 class="grey">Assistant professor</h2>
+			<h2><span property="schema:honorificSuffix" content="PhD"></span><span property="foaf:firstName" >Alex</span> <span property="foaf:familyName" >Gabriel</span></h2>
+			<h2 class="grey" property="schema:jobTitle" >Assistant professor</h2>
 		</div>
 		<article id="naveduc">
 		<h3>Educational Background</h3>
 		<div class="row">
 			<div class="col-sm-1">2013-2016</div>
 			<div class="col-sm-11">
-			<p><b>PhD Industrial system engineering</b> - Université de Lorraine, France<br/>
+			<p><b>PhD Industrial system engineering</b> - <span property="alumni">Université de Lorraine</span>, France<br/>
 			Subject: Knowledge management during a collaborative creative process<br/>
 			Supervisors: Professor Mauricio Camargo, Associate professor Davy Monticolo, Professor Mario Bourgault
 			</p>
@@ -68,7 +68,7 @@
 		<div class="row">
 			<div class="col-sm-1">2012-2013</div>
 			<div class="col-sm-11">
-			<p><b>Global Design Master</b> - Industrial design and innovation management - Université de Lorraine, France <br/>
+			<p><b>Global Design Master</b> - <span property="alumni"> Industrial design and innovation management - Université de Lorraine </span>, France <br/>
 			Subject: Methods and tools to support creativity in a collaborative digital environment
 			</p>
 			</div>
@@ -76,7 +76,7 @@
 		<div class="row">
 			<div class="col-sm-1">2008-2013</div>
 			<div class="col-sm-10">
-			<p><b>Industrial system engineering</b> - Ecole Nationale Supérieure en Génie des Systèmes Industriels (ENSGSI), France <br/>
+			<p><b>Industrial system engineering</b> - <span property="alumni"> Ecole Nationale Supérieure en Génie des Systèmes Industriels (ENSGSI) </span>, France <br/>
 			Subject : Enriching the project management learning in distant collaboration through a gamified approach
 			</p>
 			</div>
@@ -84,12 +84,20 @@
 		</article>
 		<article id="navlecture">
 		<h3>Research and Lecturing Background</h3>
+    <div class="row">
+			<div class="col-sm-1">2017-2018</div>
+			<div class="col-sm-11">
+			<p><b>Assistant professor</b> -  Arts et Métiers ParisTech, LCPI, France<br/>
+			Activity: exploration and creation of the new usage of Virtual Reality in order to assist the new product development process.
+			</p>
+			</div>
+		</div>
 		<div class="row">
 			<div class="col-sm-1">2016-2017</div>
 			<div class="col-sm-11">
 			<p><b>Graduate assistant</b> - ENSGSI & ERPI, France<br/>
 			Activity: lectures on Fundamentals of project management, International project management (in collaboration with Polytechnique Montreal), Agile Project management, Information system modeling, Knowledge management and web intelligence <br/>
-			research on implementation of an multi-agent based web app in order to experiment the creativie support system designed during the Ph.D. 
+			research on implementation of an multi-agent based web app in order to experiment the creativie support system designed during the Ph.D.
 			</p>
 			</div>
 		</div>
@@ -133,7 +141,7 @@
 			<div class="col-sm-10">
 				<div class="row">
 					<div class="col-sm-3">Software:</div>
-					<div class="col-sm-9">Microsoft office, Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Solidworks, Eclipse, Android Studio, Protégé</div>
+					<div class="col-sm-9">Microsoft office, Adobe Photoshop, Adobe Illustrator, Adobe Premiere, Solidworks, Blender, Eclipse, Android Studio, Protégé</div>
 				</div>
 				<div class="row">
 					<div class="col-sm-3">Programming language:</div>
@@ -168,14 +176,14 @@
 		<p>Artistic activity (<a href="http://alex.tristan.free.fr">Portfolio</a>), I have done several small exhibition</p>
 		<p>Passion for computer science, most of my IT skills are self learned. Part of my hobbies is to experiment electronic and IoT.</p>
 		</article>
-		
-		
+
+
 		<footer class="footer">
 			<div class="row">
 				<div class="col-xs-6">
 					<div class="row">
 						<div class="col-md-3"><a class="footerlink" href="https://scholar.google.fr/citations?user=6htoUl4AAAAJ&hl=fr">Google Scholar</a></div>
-						<div class="col-md-3"><a class="footerlink" href="https://www.researchgate.net/profile/Alex_Gabriel2">Research Gate</a></div> 
+						<div class="col-md-3"><a class="footerlink" href="https://www.researchgate.net/profile/Alex_Gabriel2">Research Gate</a></div>
 						<div class="col-md-3"><a class="footerlink" href="https://del.icio.us/trist4n">Delicious</a></div>
 						<div class="col-md-3"><a class="footerlink" href="https://github.com/gabriel-alex/">GitHub</a></div>
 					</div>
@@ -185,7 +193,7 @@
 				<div class="col-xs-5">
 					<div class="row">
 						<div class="col-md-3"><a class="footerlink" href="index.html">Bio</a></div>
-						<div class="col-md-3"><a class="footerlink" href="cv.html">CV</a></div> 
+						<div class="col-md-3"><a class="footerlink" href="cv.html">CV</a></div>
 						<div class="col-md-3"><a class="footerlink" href="publi.html">Publications</a></div>
 						<div class="col-md-3"><a class="footerlink" href="#">Contact</a></div>
 					</div>

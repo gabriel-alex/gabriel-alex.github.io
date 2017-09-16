@@ -28,7 +28,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body prefix="dc: http://purl.org/dc/terms/ schema: http://schema.org/">
 	<div class="container">
 		<div class="masterhead">
 			<nav>
@@ -48,21 +48,28 @@
 				</ul>
 			</nav>
 		</div>
-		<div class="jumbotron">
+		<div resource="#me" typeof="foaf:Person schema:Person" class="jumbotron">
 			<img class="img-circle" src="img/DSC09559.JPG" alt="Portrait" width="140" height="140">
-			<h2>Alex Gabriel</h2>
-			<h2 class="grey">Assistant professor</h2>
+			<h2><span property="schema:honorificSuffix" content="PhD"></span><span property="foaf:firstName">Alex</span> <span property="foaf:lastName">Gabriel</span></h2>
+			<h2 class="grey" property="schema:jobTitle" >Assistant professor</h2>
+          <span property="foaf:pastProject" resource="#isuuts"></span>
+          <span property="foaf:pastProject" resource="#lbm"></span>
+          <span property="foaf:pastProject" resource="#particip2"></span>
 		</div>
 		<h3>Short Bio</h3>
-		<p>Ph.D. and graduated engineer in industrial engineering. I am currently Assistant Professor at the ENSGSI, Université de Lorraine, France and do research at the ERPI laboratory, France. My research interests are: Knowledge Engineering, Multi-Agent System, Creativity, Web Semantic, Ontology and Natural Language Processing.</p>
-		
+    <p>Ph.D. and graduated engineer in industrial engineering. I am currently Assistant Professor at LCPI, Arts et Métiers ParisTech that is a laboratory specialised in product design and innovation in certainly the largest french engineering school. My research is oriented on assisting the design process and notably the fuzzy front end with information systems based on technologies and principles as virtual reality, knowledge engineering, web semantic and natural language processing.
+		<!--<p>Ph.D. and graduated engineer in industrial engineering. I am currently Assistant Professor at the ENSGSI, Université de Lorraine, France and do research at the ERPI laboratory, France. My research interests are: Knowledge Engineering, Multi-Agent System, Creativity, Web Semantic, Ontology and Natural Language Processing.</p>-->
+
 		<h3>Projects</h3>
 		<ul class="bullet">
-			<li>
-			<b>ISUUTS</b>  (2016/...): Intelligent Immersive Simulation to validate User's Usages for new Transport and mobility Solutions. This project is sponsored by the Lorraine region. We develop an intelligent immersive platform to simulate the user/people behaviours and perception for a new mobility solution in a urban area. The intelligent system provides also assistance to the user/people to choose their appropriated transport/mobility means and assistance to the designer of mobility solutions to define the acceptability rate of his solutions.
+      <li resource="#lbm" typeOf="foaf:Project schema:Organization">
+              <b property="schema:title">LinkyByMakers</b>  (2016/2017): <span property="schema:description" > Linky by Makers is a project based on the sponsorship of ENEDIS that aimed to involve the community of makers to explore the usage of smart meters et smart grid. I contributed to the creation of onnected devices that ease the control and the management of electricity in household. In respect to the community, documentations and codes of the various prototype are available on the <a href="https://github.com/LF2L/">LF2L's github</a>. </span>
 			</li>
-			<li>
-			<b>PARTICIP 2.0</b> (2013/2016):  PARTICIP 2.0 is an international project in collaboration with the Ecole Polytechnique of Montreal. PARTICIPE 2.0 aims to develop Intelligent System to support the creativity process and especially the generation, evolution, traceability, clustering and the evaluation of ideas. Our participation in this project is about to use semantic approaches to classify the idea and also to develop a AI which propose new concepts/ideas during a creativity sequences.
+      <li resource="#isuuts" typeOf="foaf:Project schema:Organization">
+              <b property="schema:title">ISUUTS</b>  (2016/2017): <span property="schema:description" >Intelligent Immersive Simulation to validate User's Usages for new Transport and mobility Solutions. This project is sponsored by the Lorraine region. We develop an intelligent immersive platform to simulate the user/people behaviours and perception for a new mobility solution in a urban area. The intelligent system provides also assistance to the user/people to choose their appropriated transport/mobility means and assistance to the designer of mobility solutions to define the acceptability rate of his solutions.</span>
+			</li>
+			<li resource="#particip2" typeOf="foaf:Project schema:Organization">
+              <b property="schema:title">PARTICIP 2.0</b> (2013/2016):  <span property="schema:description" >PARTICIP 2.0 is an international project in collaboration with the Ecole Polytechnique of Montreal. PARTICIPE 2.0 aims to develop Intelligent System to support the creativity process and especially the generation, evolution, traceability, clustering and the evaluation of ideas. Our participation in this project is about to use semantic approaches to classify the idea and also to develop a AI which propose new concepts/ideas during a creativity sequences.</span>
 			</li>
 		</ul>
 			<!--<ul class="toggle-view">
@@ -74,7 +81,7 @@
 						<b>ISUUTS</b>  (2016/2019): Intelligent Immersive Simulation to validate User's Usages for new Transport and mobility Solutions. This project is  sponsored by the Lorraine region. We develop a intelligent immersive platform to simulate the user/people behaviours and perception for a new mobility solution in a urban area. The intelligent system provides also an assistance to the user/people to chose their appropriated transport/mobility means and a assistance to the designer of mobility solutions to define the acceptability rate of his solutions.
 						</li>
 						<li>
-						<b>PARTICIP 2.0</b> (2013/2016) :  PARTICIP 2.0 is a international project in collaboration with the Ecole Polytechnique of Montreal. PARTICIPE 2.0 aims to develop Intelligent System to support the creativity process and especialy the generation, evolution, treaceability, clustering and the evaluation of ideas. Our participation in this project is about to use semantic approaches to classify the idea and also to develop a AI which propose new concepts/ideas during a creativity sequences. 
+						<b>PARTICIP 2.0</b> (2013/2016) :  PARTICIP 2.0 is a international project in collaboration with the Ecole Polytechnique of Montreal. PARTICIPE 2.0 aims to develop Intelligent System to support the creativity process and especialy the generation, evolution, treaceability, clustering and the evaluation of ideas. Our participation in this project is about to use semantic approaches to classify the idea and also to develop a AI which propose new concepts/ideas during a creativity sequences.
 						</li>
 					</ul>
 				</div>
@@ -91,13 +98,13 @@
 				</div>
 				</li>
 			</ul>-->
-		
+
 		<footer class="footer">
 			<div class="row">
 				<div class="col-xs-6">
 					<div class="row">
 						<div class="col-md-3"><a class="footerlink" href="https://scholar.google.fr/citations?user=6htoUl4AAAAJ&hl=fr">Google Scholar</a></div>
-						<div class="col-md-3"><a class="footerlink" href="https://www.researchgate.net/profile/Alex_Gabriel2">Research Gate</a></div> 
+						<div class="col-md-3"><a class="footerlink" href="https://www.researchgate.net/profile/Alex_Gabriel2">Research Gate</a></div>
 						<div class="col-md-3"><a class="footerlink" href="https://del.icio.us/trist4n">Delicious</a></div>
 						<div class="col-md-3"><a class="footerlink" href="https://github.com/gabriel-alex/">GitHub</a></div>
 					</div>
@@ -107,7 +114,7 @@
 				<div class="col-xs-5">
 					<div class="row">
 						<div class="col-md-3"><a class="footerlink" href="index.html">Bio</a></div>
-						<div class="col-md-3"><a class="footerlink" href="cv.html">CV</a></div> 
+						<div class="col-md-3"><a class="footerlink" href="cv.html">CV</a></div>
 						<div class="col-md-3"><a class="footerlink" href="publi.html">Publications</a></div>
 						<div class="col-md-3"><a class="footerlink" href="#">Contact</a></div>
 					</div>

@@ -1,0 +1,51 @@
+[
+    {
+      "type": "Programming Languages",
+      "content": [
+        "Python",
+        "Javascript (Vue.js)",
+        "Flutter",
+        "C++",
+        "C#",
+        "Java",
+        "PHP",  
+        "SQL",
+        "RDF",
+        "SPARQL"
+      ]
+    },
+    {
+      "type": "Software",
+      "content": [
+        "Github",
+        "Docker",
+        "Kubernetes",
+        "Microsoft Office",
+        "Unity",
+        "Blender",
+        "Solidworks",
+        "OnShape",
+        "PlatformIO",
+        "Inkscape",
+        "Postman",
+        "Visual Studio Code",
+        "Jena Fuseki",
+        "Elastic Search",
+        "Stanford NLP",
+        "Vuforia",
+        "Optitrack tracking tools"
+      ]
+    },
+    {
+      "type": "Hardware",
+      "content": ["3D Printing", "Laser Cutting", "Electronic Prototyping"]
+    },
+    {
+      "type": "Languages",
+      "content": [
+        { "language": "French", "level": "Native" },
+        { "language": "English", "level": "C1" },
+        { "language": "Spanish", "level": "B1" }
+      ]
+    }
+  ]

@@ -1,0 +1,49 @@
+[
+    {
+      "id": "5",
+      "jobtitle": "Research Engineer",
+      "startYear": "2019",
+      "endYear": "2020",
+      "structure": "Université de Lorraine, ERPI",
+      "topic":
+        "Projet européen, smart grid, IoT - Sigfox, création MOOC, service web"
+    },
+    {
+      "id": "4",
+      "jobtitle": "Technical director Ontology - NLP",
+      "startYear": "2018",
+      "endYear": "2019",
+      "structure": "Xtramile",
+      "topic":
+        "Dev. python, API REST, microservice, protocole d'annotation, NLP, endpoint SPARQL"
+    },
+    {
+      "id": "3",
+      "jobtitle": "Assistant professor",
+      "startYear": "2017",
+      "endYear": "2018",
+      "structure":
+        "Arts et Métiers ParisTech, Laboratoire de Conception de Produit et Innovation",
+      "topic": "Dev. réalité virtuelle, PoC IoT, ontologie, application web"
+    },
+    {
+      "id": "2",
+      "jobtitle": "Assistant lecturers",
+      "startYear": "2016",
+      "endYear": "2017",
+      "structure":
+        "Ecole Nationale Supérieur en Génie des Systèmes Industriels, ERPI",
+      "topic":
+        "App. web pour jeux sérieux en gestion de projet, PoC IoT, PoC réalité virtuelle"
+    },
+    {
+      "id": "1",
+      "jobtitle": "Assistant lecturers",
+      "startYear": "2013",
+      "endYear": "2016",
+      "structure":
+        "Université de Lorraine, ERPI - Polytechnique Montréal, MAGI",
+      "topic":
+        "NLP, dev. ontologie, modélisations des systèmes, atelier de créativité"
+    }
+  ]

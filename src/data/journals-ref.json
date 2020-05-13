@@ -1,0 +1,38 @@
+[
+    {
+        "title":
+          "Methodology to design ontologies from organizational models: application to creativity workshops",
+        "authors": "A Gabriel, P Chavez Barrios, D Monticolo",
+        "year": "2019",
+        "publi": "AI EDAM 33 (2)",
+        "link": "https://doi.org/10.1017/S0890060419000088",
+        "id": "Methodo2019"
+      },
+      {
+        "title":
+          "Une approche de conception de systèmes multi-agents dédiés à la gestion des connaissances",
+        "authors": "D Monticolo, A Gabriel, PC Barrios",
+        "year": "2018",
+        "publi": "Ingenierie des Systemes d'Information 23 (2)",
+        "link": "https://doi.org/10.3166/isi.23.2.61-88",
+        "id": "ConceptionSMAIC2018"
+      },
+      {
+        "title":
+          "Improving the idea selection process in creative workshops through contextualisation",
+        "authors": "A Gabriel, M Camargo, D Monticolo, V Boly, M Bourgault",
+        "year": "2016",
+        "publi": "Journal of Cleaner Production 135, 1503-1513",
+        "link": "https://doi.org/10.1016/j.jclepro.2016.05.039",
+        "id": "IdeaSelection2019"
+      },
+      {
+        "title":
+          "Creativity support systems: A systematic mapping study",
+        "authors": "A Gabriel, D Monticolo, M Camargo, M Bourgault",
+        "year": "2016",
+        "publi": "Thinking Skills and Creativity 21, 109-122",
+        "link": "https://doi.org/10.1016/j.tsc.2016.05.009",
+        "id": "SystemReview2019"
+      }
+]

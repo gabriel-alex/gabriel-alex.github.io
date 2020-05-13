@@ -1,0 +1,23 @@
+[
+    {
+      "title": "PhD Industrial system engineering",
+      "year": "2016",
+      "structure": "Université de Lorraine, France",
+      "topic": "Knowledge management during a collaborative creative process"
+    },
+    {
+      "title": "Master 2 Global Design",
+      "year": "2013",
+      "structure": "Université de Lorraine, France",
+      "topic":
+        "Methods and tools to support creativity in a collaborative digital environment"
+    },
+    {
+      "title": "Master 2 Insudtrial System Engineering",
+      "year": "2013",
+      "structure":
+        "Ecole Nationale Supérieure en Génie des Systèmes Industriels (ENSGSI) , France ",
+      "topic":
+        "Enriching the project management learning in distant collaboration through a gamified approach"
+    }
+  ]

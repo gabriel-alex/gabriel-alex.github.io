@@ -1,0 +1,73 @@
+[{
+    "title":
+      "Virtual Reality and Recommendation System to Design Mobility System",
+    "authors": "A Gabriel, M Ortiz ",
+    "year": "2017",
+    "publi": "2017 13th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS)",
+    "link": "https://doi.org/10.1109/SITIS.2017.86",
+    "id": "VR2017"
+  },
+  {
+    "title":
+      "An Organizational Model to Understand the Creativity Workshop",
+    "authors": "PC Barrios, D Monticolo, S Sidhom, A Gabriel",
+    "year": "2017",
+    "publi": "2017 13th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS)",
+    "link": "https://doi.org/10.1109/SITIS.2017.87",
+    "id": "OrgaModel2017"
+  },
+  {
+    "title":
+      "Collaborative innovation projects engaging open communities: A case study on emerging challenges",
+    "authors": "L Dupont, A Gabriel, M Camargo, C Guidat",
+    "year": "2017",
+    "publi": "2017 International Conference on Engineering, Technology and Innovation (ICE/ITMC)",
+    "link": "https://doi.org/10.1109/ICE.2017.8280002",
+    "id": "CollabInno2017"
+  },
+  {
+    "title":
+      "Semantic Approach to Analyze Creativity Corpus",
+    "authors": "D Monticolo, A Gabriel, P Chavez",
+    "year": "2017",
+    "publi": "2017 International Conference on Data Mining, Communications and Information Technology",
+    "link": "https://doi.org/10.1145/3089871.3089897",
+    "id": "Semantic2017"
+  },
+  {
+    "title":
+      "Ontology to represent the knowledge domain of a creative workshop",
+    "authors": "A Gabriel, D Monticolo, M Camargo, M Bourgault",
+    "year": "2016",
+    "publi": "2016 12th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS)",
+    "link": "https://doi.org/10.1109/SITIS.2016.102",
+    "id": "Onto2016"
+  },
+  {
+    "title":
+      "Multi-agent system to support creative workshop",
+    "authors": "A Gabriel, D Monticolo, M Camargo, M Bourgault",
+    "year": "2015",
+    "publi": "2015 11th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS)",
+    "link": "https://doi.org/10.1109/SITIS.2015.114",
+    "id": "CreatSMA2015"
+  },
+  {
+    "title":
+      "Process modelling for a creative problem solving support system",
+    "authors": "A Gabriel, M Camargo, D Monticolo,  M Bourgault",
+    "year": "2014",
+    "publi": "2014 International Conference on Innovative Design and Manufacturing (ICIDM)",
+    "link": "https://doi.org/10.1109/IDAM.2014.6912691",
+    "id": "ProcesModel2014"
+  },
+  {
+    "title":
+      "An Intelligent System based on Natural Language Processing to support the brain purge in the creativity process",
+    "authors": "F Issa, D Monticolo, A Gabriel, S Mihaita",
+    "year": "2014",
+    "publi": "International Conference on Artificial Intelligence and Applications (ICAIA'14)",
+    "link": "https://doi.org/10.1109/IDAM.2014.6912691",
+    "id": "ProcesModel2014"
+  }
+]

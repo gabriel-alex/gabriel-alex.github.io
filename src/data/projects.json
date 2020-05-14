@@ -3,8 +3,7 @@
     "name": "SMAGRINET",
     "startYear": 2019,
     "endYear": 2021,
-    "description":
-      "The Smagrinet project is a H2020 european project that aims to create a smart grid competence hub in order to enhance research and innovation, and engage universities, industrial and civil society to respond to the energy transition challenges. Reducing the greenhouse gas emissions is an ecological and political mandatory. It requires to increase the share of renewable energy in the the electricity consumption. However, an effective integration of renewable energy sources introduce new constraints on the electrical network. The european answers for managing these contraints is smart grids. One the conditions of success of this energy transition is to inform actors about technical possibilities and train professionnal to implement these technologies at europan scale. My contribution in this project is to design, structure, conceive and create content concerning smart grid for a blended learning program.",
+    "description":"The SMAGRINET project is a H2020 European project that aims to create a smart grid competence hub in order to enhance research and innovation, and engage universities, industrial and civil society to respond to the energy transition challenges. Reducing greenhouse gas emissions is an ecological and political mandatory. It requires to increase the share of renewable energy in the electricity consumption. However, an effective integration of renewable energy sources introduces new constraints on the electrical network. The European answer for managing these constraints is smart grids. One the conditions of success of this energy transition is to inform actors about technical possibilities and train professional to implement these technologies at European scale. My contribution to this project is to design, structure, conceive and create content concerning smart grid for a blended learning program.",
     "link": "https://www.smagrinet.eu/",
     "git":null
   },
@@ -12,8 +11,7 @@
       "name": "Linky by Makers",
       "startYear": 2016,
       "endYear": 2017,
-      "description":
-        "Linky by Makers is a project based on the sponsorship of ENEDIS that aimed to involve the community of makers to explore the usage of smart meters et smart grid. I contributed to the creation of connected devices that ease the control and the management of electricity in household. In respect to the community, documentations and codes of the various prototype are available on the LF2L's github.",
+      "description":"Linky by Makers is a project based on the sponsorship of ENEDIS that aimed to involve the community of makers to explore the usage of smart meters and smart grid. I contributed to the creation of connected devices that ease the control and the management of electricity in the household. In respect to the community, documentation and codes of the various prototypes are available on the LF2L's GitHub.",
       "link": "http://linkybymakers.fr/",
       "git":"https://github.com/LF2L/"
     },
@@ -21,8 +19,7 @@
       "name": "ISUUTS",
       "startYear": 2016,
       "endYear": 2017,
-      "description":
-        "Intelligent Immersive Simulation to validate User's Usages for new Transport and mobility Solutions. This project is sponsored by the Lorraine region. We develop an intelligent immersive platform to simulate the user/people behaviours and perception for a new mobility solution in a urban area. The intelligent system provides also assistance to the user/people to choose their appropriated transport/mobility means and assistance to the designer of mobility solutions to define the acceptability rate of his solutions.",
+      "description":"Immersive Intelligent Simulation to validate User's Usages for new Transport and mobility Solutions. This project is sponsored by the Lorraine region. We develop an intelligent immersive platform to simulate the user/people behaviours and perception of a new mobility solution in urban area. The intelligent system also helps the user/people to choose their appropriated transport/mobility means and assistance to the designer of mobility solutions to define the acceptability rate of his solutions.",
       "link": null,
       "git": null
     },
@@ -30,8 +27,7 @@
       "name": "PARTICIP 2.0",
       "startYear": 2013,
       "endYear": 2016,
-      "description":
-        "PARTICIP 2.0 is an international project in collaboration with the Ecole Polytechnique of Montreal. PARTICIPE 2.0 aims to develop Intelligent System to support the creativity process and especially the generation, evolution, traceability, clustering and the evaluation of ideas. Our participation in this project is about to use semantic approaches to classify the idea and also to develop a AI which propose new concepts/ideas during a creativity sequences.",
+      "description":"PARTICIP 2.0 is an international project in collaboration with the Ecole Polytechnique of Montreal. PARTICIPE 2.0 aims to develop Intelligent System to support the creativity process and especially the generation, evolution, traceability, clustering and the evaluation of ideas. Our participation in this project is about to use semantic approaches to classify the idea and also to develop an AI which proposes new concepts/ideas during a creativity workshop.",
       "git": null
     }
   ]

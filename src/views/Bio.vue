@@ -30,21 +30,20 @@
       <v-divider />
       <p>
         I am postdoctoral research engineer in the ERPI research team of
-        University of Lorraine. This laboratory is specialised on researched
-        concerning methods, tools and knowledge that optimize the innovation
+        University of Lorraine. This laboratory is specialised in research
+        concerning methods, tools and knowledge that optimise the innovation
         process.
-        <!--<p>Ph.D. and graduated engineer in industrial engineering. I am currently Assistant Professor at the ENSGSI, Université de Lorraine, France and do research at the ERPI laboratory, France. My research interests are: Knowledge Engineering, Multi-Agent System, Creativity, Web Semantic, Ontology and Natural Language Processing.</p>-->
       </p>
       <p>
-        My research is oriented on assisting the design process and notably the
+        My research is oriented in assisting the design process and notably the
         fuzzy front-end of innovation with information systems. I covered
         different aspects of the fuzzy front-end such as ideation, evaluation,
-        prototyping with a specific attention for involving users and
-        collaborate from other domains. The orientation led me to explore
-        various research and topics as innovation management, artificial
-        intelligence (notably natural language processing), knowledge
-        engineering and ontologies, creativity psychology, multi-agent systems,
-        immersive technologies (virtual reality), and living lab approach.
+        prototyping with specific attention for involving users and collaborate
+        from other domains. The orientation led me to explore various research
+        and topics as innovation management, artificial intelligence (notably
+        natural language processing), knowledge engineering and ontologies,
+        creativity psychology, multi-agent systems, immersive technologies
+        (virtual reality), and living lab approach.
       </p>
     </div>
   </v-container>

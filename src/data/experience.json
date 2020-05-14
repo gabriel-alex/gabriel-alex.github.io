@@ -6,35 +6,35 @@
       "endYear": "2020",
       "structure": "Université de Lorraine, ERPI",
       "topic":
-        "Projet européen, smart grid, IoT - Sigfox, création MOOC, service web"
+        "European project, smartgrids, IoT - Sigfox, MOOC creation, web service programming"
     },
     {
       "id": "4",
-      "jobtitle": "Technical director Ontology - NLP",
+      "jobtitle": "Technical Director Ontology - NLP",
       "startYear": "2018",
       "endYear": "2019",
       "structure": "Xtramile",
       "topic":
-        "Dev. python, API REST, microservice, protocole d'annotation, NLP, endpoint SPARQL"
+        "Python programming, API REST, microservices, annotation protocol for machine learning, NLP, endpoint SPARQL"
     },
     {
       "id": "3",
-      "jobtitle": "Assistant professor",
+      "jobtitle": "Assistant Professor",
       "startYear": "2017",
       "endYear": "2018",
       "structure":
         "Arts et Métiers ParisTech, Laboratoire de Conception de Produit et Innovation",
-      "topic": "Dev. réalité virtuelle, PoC IoT, ontologie, application web"
+      "topic": "Virtual reality PoC, IoT PoC, ontology programming, web application programming"
     },
     {
       "id": "2",
-      "jobtitle": "Assistant lecturers",
+      "jobtitle": "Assistant Lecturer",
       "startYear": "2016",
       "endYear": "2017",
       "structure":
         "Ecole Nationale Supérieur en Génie des Systèmes Industriels, ERPI",
       "topic":
-        "App. web pour jeux sérieux en gestion de projet, PoC IoT, PoC réalité virtuelle"
+        "Web app for project management serious game, IoT PoC, virtual reality PoC"
     },
     {
       "id": "1",
@@ -44,6 +44,6 @@
       "structure":
         "Université de Lorraine, ERPI - Polytechnique Montréal, MAGI",
       "topic":
-        "NLP, dev. ontologie, modélisations des systèmes, atelier de créativité"
+        "NLP, ontology programming, system modeling, creative workshop animation"
     }
   ]

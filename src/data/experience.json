@@ -1,16 +1,16 @@
 [
     {
       "id": "5",
-      "jobtitle": "Research Engineer",
+      "jobtitle": "Researcher",
       "startYear": "2019",
-      "endYear": "2020",
-      "structure": "Université de Lorraine, ERPI",
+      "endYear": "2022",
+      "structure": "ERPI laboratory, Université de Lorraine",
       "topic":
-        "European project, smartgrids, IoT - Sigfox, MOOC creation, web service programming"
+        "Ontology, Smartgrid, P2P energy sharing, IoT, Pedagogical engineering, European project, computer simulation (optimization, multi-agent system), IT project management"
     },
     {
       "id": "4",
-      "jobtitle": "Technical Director Ontology - NLP",
+      "jobtitle": "Technical Director Ontology & NLP",
       "startYear": "2018",
       "endYear": "2019",
       "structure": "Xtramile",

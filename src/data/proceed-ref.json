@@ -1,4 +1,22 @@
 [{
+  "title":
+    "Explorative Implementation of Open-Source Peer-to-Peer Energy Trading Approaches",
+  "authors": "A Gabriel, R Oulhaj, L Dupont",
+  "year": "2021",
+  "publi": "2021 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC)",
+  "link": "https://dx.doi.org/10.1109/ICE/ITMC52061.2021.9570218",
+  "id": "P2Ptrading2021"
+},
+{
+  "title":
+    "Applying a Living Lab Approach to Smart Grid Training Course Design",
+  "authors": "A Gabriel, K Berger, L Dupont, V Rault, M Camargo, F Mayer",
+  "year": "2020",
+  "publi": "2020 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC)",
+  "link": "https://dx.doi.org/10.1109/ICE/ITMC49519.2020.9198604",
+  "id": "LivinLab2020"
+},
+{
     "title":
       "Virtual Reality and Recommendation System to Design Mobility System",
     "authors": "A Gabriel, M Ortiz ",

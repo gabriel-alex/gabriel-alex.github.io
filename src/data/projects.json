@@ -1,8 +1,40 @@
 [
   {
-    "name": "SMAGRINET",
+    "name": "Industrie Digitale COnnectée (INDICO)",
+    "startYear": 2022,
+    "endYear": 2023,
+    "description":"INDICO is a regional project in colaboration with Polytech Nancy, InSIC, IUt Nancy Brabois and Smart Lorraine that aims make evolve industrials teaching. The ambition of this project is to develop augmented reality tools that will be used in the pedagogical context. ",
+    "link": null,
+    "git": null
+  },
+  {
+    "name": "SIRIUS",
+    "startYear": 2021,
+    "endYear": 2030,
+    "description":"SIRIUS is a project of the Lorraine University of Excellence (LUE) initiative that involves various partners such as Université de Lorraine, CNRS, Inserm, Inrae, CHRU, AgroParisTech, Georgia Tech-Lorraine in order to develop a global innovation strategy that have significant social and economical impact. It is structured in four complementary axes: further opening up of innovation spaces, create different thematic communities to work together, improving the way we work to better meet the needs of society, promote Lorraine's players and their strengths in research, training and innovation. The participation in this project aims at creating a tool for decision making and piloting for the projects in order to promote collaboration, mutualization and innovation on the territory.",
+    "link": null,
+    "git":null
+  },
+  {
+    "name": "Innoflow",
+    "startYear": 2020,
+    "endYear": 2022,
+    "description":"Innoflow is an entrepreneurial project that aims to create an innovative idea management system. This project is based on my research activities combining creativity and innovation management and data processing (NLP, ontology) as well as the activities of the ERPI laboratory on this subject. This project is supported by the Incubateur Lorrain.",
+    "link": "https://inno-flow.com/",
+    "git": null
+  },
+  {
+    "name": "INEDIT - Smart collector",
     "startYear": 2019,
     "endYear": 2021,
+    "description":"The INEDIT project is a H2020 European project that at the creation an open innovation European “Do It Together” ecosystem for sustainable furniture co-creation. I contributed to this project through creating a smart collector to collect plastic waste that will be recycled in a local 3D printing production unit.",
+    "link": "https://www.inedit-project.eu/",
+    "git":null
+  },
+  {
+    "name": "SMAGRINET",
+    "startYear": 2019,
+    "endYear": 2022,
     "description":"The SMAGRINET project is a H2020 European project that aims to create a smart grid competence hub in order to enhance research and innovation, and engage universities, industrial and civil society to respond to the energy transition challenges. Reducing greenhouse gas emissions is an ecological and political mandatory. It requires to increase the share of renewable energy in the electricity consumption. However, an effective integration of renewable energy sources introduces new constraints on the electrical network. The European answer for managing these constraints is smart grids. One the conditions of success of this energy transition is to inform actors about technical possibilities and train professional to implement these technologies at European scale. My contribution to this project is to design, structure, conceive and create content concerning smart grid for a blended learning program.",
     "link": "https://www.smagrinet.eu/",
     "git":null

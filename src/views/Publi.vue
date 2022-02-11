@@ -51,7 +51,7 @@ export default {
         {
           title:
             'Gestion des connaissances lors d’un processus collaboratif de créativité',
-          authors: 'Gabriel A.',
+          authors: 'A Gabriel',
           year: '2016',
           publi: '',
           link: 'https://tel.archives-ouvertes.fr/tel-01529769',

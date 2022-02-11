@@ -14,23 +14,23 @@
     </v-row>
     <v-row>
       <v-col>
-        <h2 class="primary--text lighten-1">Degrees</h2>
-        <v-divider></v-divider>
-        <Degree
-          v-for="degree in degrees"
-          :key="`${degree.title}`"
-          :degree="degree"
-        />
-      </v-col>
-    </v-row>
-    <v-row>
-      <v-col>
         <h2 class="primary--text lighten-1">Experiences</h2>
         <v-divider></v-divider>
         <Experience
           v-for="expe in experiences"
           :key="`experience-${expe.id}`"
           :experience="expe"
+        />
+      </v-col>
+    </v-row>
+    <v-row>
+      <v-col>
+        <h2 class="primary--text lighten-1">Degrees</h2>
+        <v-divider></v-divider>
+        <Degree
+          v-for="degree in degrees"
+          :key="`${degree.title}`"
+          :degree="degree"
         />
       </v-col>
     </v-row>

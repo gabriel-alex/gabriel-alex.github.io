@@ -29,32 +29,34 @@
       <h3 class="primary--text lighten-1">Short Bio</h3>
       <v-divider />
       <p>
-        I am postdoctoral researcher at ERPI (research team on innovation
-        process) research laboratory from University of Lorraine. ERPI is a
-        research team on Industrial Engineering specialized on the research of
-        innovation processes management. Its activities concern the methods,
-        tools and knowledges allowing to optimise innovation projects
-        management.
+        I am a researcher at the ERPI research laboratory from Université de
+        Lorraine, France. ERPI is an Industrial Engineering research team
+        specialised in the field of innovation processes management. Its
+        activities concern methods, tools and knowledge allowing optimisation of
+        innovation projects management.
       </p>
       <p>
         As an engineer and doctor in industrial engineering, my research is
-        oriented in assisting the design process and notably the fuzzy front-end
-        of innovation with information systems. I covered different aspects of
-        the fuzzy front-end such as ideation, evaluation, prototyping. I combine
-        innovation management with various domain of the computer science such
-        artificial intelligences (notably natural processing and ontologies),
-        multi-agent system, immersive technology (virtual and augmented reality)
-        and IoT to create tools that contribute to the innovation process. These
-        tools collect data (on field with IoT or virtually with immersive
-        devices), simulate scenarios (multi-agent system and optimisations), and
-        visualize the data (dashboard) with the finality to ease the
-        collaboration and decision-making process.
+        aimed at assisting the design process and notably the fuzzy front-end of
+        innovation with information systems. I covered different aspects of the
+        fuzzy front-end such as ideation, evaluation and prototyping. I combine
+        innovation management with various domains of the computer science such
+        artificial intelligence (notably natural language processing and
+        ontologies), multi-agent system, immersive technology (virtual and
+        augmented reality) and IoT to create tools that contribute to the
+        innovation process. These tools collect data (on the field with IoT or
+        virtually with immersive devices), simulate scenarios (multi-agent
+        system and computer optimisations), and visualise the data (dashboard)
+        with the finality to ease the collaboration and decision-making process.
+        Beyond computer science applied to innovation management, I have
+        collaborated with other researchers in the fields of electrical and
+        process engineering.
       </p>
       <p>
         I am also project leader, developer and maintainer of an idea management
         system based on my doctoral researcher. This project is supported by
         Incubateur Lorrain to make this tool economically viable. This tool is
-        regularly used during innovation challenge in collaboration with ENSGSI
+        regularly used during innovation challenges in collaboration with ENSGSI
         engineering school.
       </p>
     </div>
